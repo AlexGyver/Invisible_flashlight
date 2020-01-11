@@ -17,12 +17,17 @@
 Почти всё указанное ниже можно найти здесь:  
 http://alexgyver.ru/arduino_shop/
 
-* Arduino http://ali.pub/19vmml
-* Аккумуляторы http://alexgyver.ru/18650/
-* Выключатель http://ali.pub/19vmnd
-* Повышайка http://ali.pub/19vmo5
-* Кнопочки http://ali.pub/19vmpb
-* Мосфеты http://ali.pub/19vmpi
-* Набор резисторов http://ali.pub/19vmpp
-* Светодиод 10 Ватт, цвет белый (white) http://ali.pub/19vmqo
-* Паяльники, припой http://alexgyver.ru/all-for-soldering/
+Arduino NANO 328p – искать
+* https://ali.ski/tI7blh
+* https://ali.ski/O4yTxb
+* https://ali.ski/6_rFIS
+* https://ali.ski/gb92E-
+* Giant4 (Россия)
+* Аккумуляторы https://alexgyver.ru/18650/
+* Выключатель https://ali.ski/1RXwa0
+* Повышайка https://ali.ski/lDkwI
+* Кнопочки https://ali.ski/QtNN_
+* Мосфеты https://ali.ski/Jb_sz
+* Набор резисторов https://ali.ski/Pajn-
+* Светодиод 10 Ватт, цвет белый (white) https://ali.ski/N9QLDP
+* Паяльники, припой https://alexgyver.ru/all-for-soldering/

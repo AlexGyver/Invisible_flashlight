@@ -18,16 +18,16 @@
 http://alexgyver.ru/arduino_shop/
 
 Arduino NANO 328p – искать
-* https://ali.ski/tI7blh
-* https://ali.ski/O4yTxb
-* https://ali.ski/6_rFIS
-* https://ali.ski/gb92E-
+* https://ali.ski/mm2Qp
+* https://ali.ski/UzK_v
+* https://ali.ski/MX-3fG
+* https://ali.ski/Y8Lpz
 * Giant4 (Россия)
 * Аккумуляторы https://alexgyver.ru/18650/
-* Выключатель https://ali.ski/1RXwa0
-* Повышайка https://ali.ski/lDkwI
-* Кнопочки https://ali.ski/QtNN_
-* Мосфеты https://ali.ski/Jb_sz
-* Набор резисторов https://ali.ski/Pajn-
-* Светодиод 10 Ватт, цвет белый (white) https://ali.ski/N9QLDP
+* Выключатель https://ali.ski/2t0ee6
+* Повышайка https://ali.ski/oRIfa
+* Кнопочки https://ali.ski/IJ1m57
+* Мосфеты https://ali.ski/b2dOP
+* Набор резисторов https://ali.ski/nubNUY
+* Светодиод 10 Ватт, цвет белый (white) https://ali.ski/Gw5Ia
 * Паяльники, припой https://alexgyver.ru/all-for-soldering/
